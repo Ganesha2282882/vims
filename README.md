@@ -2,16 +2,16 @@ Say you need to get Vim really quick, but you don't know how to use it. I'm gonn
 
 You probably got to install it, so run these commands:
 
-Debian-based:
+> Debian-based:
 `sudo apt-get install vim -y && cd && echo "set number" > .vimrc && cd -`
 
-Arch-based:
+> Arch-based:
 `sudo pacman -Sy vim && cd && echo "set number" > .vimrc && cd -`
 
-RHEL-based:
+> RHEL-based:
 `sudo yum install vim && cd && echo "set number" > .vimrc && cd -`
 
-Windows (as admin):
+> Windows (as admin):
 `choco install vim-tux`
 
 First, to get the functionality of Nano, you just need to learn these commands:
