@@ -16,8 +16,8 @@ You probably got to install it, so run these commands:
 
 First, to get the functionality of Nano, you just need to learn these commands:
 
-`i` - get into insert mode where you can type text
+> `i` - get into insert mode where you can type text
 
-[ESC] - get out of insert mode
+> [ESC] - get out of insert mode
 
-`:q` or `q` (depends, try both) - quit out of Vim.
+> `:q` or `q` (depends, try both) - quit out of Vim.
